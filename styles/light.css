@@ -18,7 +18,7 @@
 
 /* Остальные стили */
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   .page.theme_light {
     --accent-color: #ff0070;
     --cover-title-shadow-color: #ff0070;
@@ -40,7 +40,7 @@
   .rec {
     display: none;
   }
-}
+} */
 
 /* Остальные стили */
 .page.theme_light {
