@@ -1,19 +1,20 @@
 :root.theme-light {
-  --accent-color: #ff0070;
+  --accent-color: #ff8dcb;
   --cover-title-shadow-color: #ff0070;
-  --header-menu-color: #ff0070;
+  --header-menu-color: #353430;
   --section-desciption-color: #353430;
   --section-title-color: #353430;
-  --title-decor-color: #db00ff;
+  --title-decor-color: #ffc2e6;
   --cover-desciption-text-color: #353430;
   --section-subtitles-color: #353430;
-  --links-hover-color: rgba(255, 0, 112, 0.6);
+  --links-hover-color: rgba(50, 49, 45, 0.6);
   --links-color: #f1b2ce;
   --header-menu-focus-visible-color: #353430;
   --header-menu-active-color: #353430;
   --link-shadow-color: #353430;
   --brackets-color: #353430;
   --background-image: url(../images/cover-image-light.png);
+  --background-color: #ffc2e6;
 }
 
 /* Остальные стили */
@@ -59,6 +60,7 @@
   --link-shadow-color: #353430;
   --brackets-color: #353430;
   --background-image: url(../images/cover-image-light.png);
+  --background-color: #ffc2e6;
 
   .rec {
     display: none;
