@@ -1,8 +1,12 @@
-/*
-  Специально для тёмной темы при наличии класса,
-  здесь окажутся стили, которые нужно переопределить принудительно,
-  переключая тему
-*/
+:root.theme-dark {
+  --accent-color: #ff0070;
+  --section-desciption-color: #f1b2ce;  
+  --title-decor-color: #db00ff;
+  --cover-desciption-text-color: #000028;
+  --section-subtitles-color: #000028;
+}
+
+/* Остальные стили */ 
 
 .page.theme_dark {
   /* сохраните этот селектор в приведённом виде.
