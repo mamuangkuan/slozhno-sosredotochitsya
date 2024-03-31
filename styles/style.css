@@ -11,6 +11,10 @@
   padding-left: 26px;
 }
 
+.header {
+  height: 100vh;
+}
+
 
 .header__theme-menu-list {
   display: flex;
@@ -439,6 +443,7 @@
 
   .footer {
     margin-top: 44px;
+    height: 100vh;
   }
 
   .footer__title {
