@@ -14,7 +14,7 @@
   --link-shadow-color: #353430;
   --brackets-color: #353430;
   --background-image: url(../images/cover-image-light.png);
-  --background-color: #ffc2e6;
+  --background-color: #fff1f7;
 }
 
 /* Остальные стили */
@@ -60,7 +60,7 @@
   --link-shadow-color: #353430;
   --brackets-color: #353430;
   --background-image: url(../images/cover-image-light.png);
-  --background-color: #ffc2e6;
+  --background-color: #fff1f7;
 
   .rec {
     display: none;
