@@ -1,16 +1,37 @@
 :root.theme-dark {
   --accent-color: #ff0070;
-  --section-desciption-color: #f1b2ce;  
+  --cover-title-shadow-color: #ff0070;
+  --header-menu-color: #ff0070;
+  --section-desciption-color: #f1b2ce;
+  --section-title-color: #ff0070;
   --title-decor-color: #db00ff;
   --cover-desciption-text-color: #000028;
   --section-subtitles-color: #000028;
+  --links-hover-color: rgba(255, 0, 112, 0.6);
+  --links-color: #f1b2ce;
+  --header-menu-focus-visible-color: #ff0070;
+  --header-menu-active-color: #ff0070;
+  --link-shadow-color: #ff0070;
+  --brackets-color: #ff0070;
+  --background-image: url(../images/cover-image-dark.png);
 }
 
 /* Остальные стили */ 
 
 .page.theme_dark {
-  /* сохраните этот селектор в приведённом виде.
-    Так стили написанные ниже будут иметь больший вес,
-    чем стили в медиазапросе предпочтений пользователя
-  */
+  --accent-color: #ff0070;
+  --cover-title-shadow-color: #ff0070;
+  --header-menu-color: #ff0070;
+  --section-desciption-color: #f1b2ce;
+  --section-title-color: #ff0070;
+  --title-decor-color: #db00ff;
+  --cover-desciption-text-color: #000028;
+  --section-subtitles-color: #000028;
+  --links-hover-color: rgba(255, 0, 112, 0.6);
+  --links-color: #f1b2ce;
+  --header-menu-focus-visible-color: #ff0070;
+  --header-menu-active-color: #ff0070;
+  --link-shadow-color: #ff0070;
+  --brackets-color: #ff0070;
+  --background-image: url(../images/cover-image-dark.png);
 }
