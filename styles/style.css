@@ -259,6 +259,7 @@
 
 .footer {
   margin-top: 50px;
+  height: 100vh;
 }
 
 .footer__title {
@@ -442,8 +443,7 @@
   }
 
   .footer {
-    margin-top: 44px;
-    height: 100vh;
+    margin-top: 44px;    
   }
 
   .footer__title {
