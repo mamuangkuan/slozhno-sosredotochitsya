@@ -15,7 +15,6 @@
   height: 100vh;
 }
 
-
 .header__theme-menu-list {
   display: flex;
   justify-content: center;
@@ -443,7 +442,7 @@
   }
 
   .footer {
-    margin-top: 44px;    
+    margin-top: 44px;
   }
 
   .footer__title {
