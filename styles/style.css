@@ -263,6 +263,7 @@
 .footer {
   height: 100vh;
   margin-top: 85px;
+  position: relative;
 }
 
 .footer__title {
@@ -285,11 +286,12 @@
 
 .footer::after {
   content: "";
+  position: absolute;
   display: block;
   width: 25px;
   height: 25px;
-  margin-left: 20px;
-  /* margin-bottom: 20px; */
+  left: 20px;
+  bottom: 20px;
   border-bottom: 1px solid var(--brackets-color);
   border-left: 1px solid var(--brackets-color);
 }
