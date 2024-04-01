@@ -17,10 +17,8 @@
   --background-color: #fff1f7;
 }
 
-/* Остальные стили */
-
 @media (prefers-color-scheme: light) {
-  .page.theme_light {
+  .page {
     --accent-color: #ff8dcb;
     --cover-title-shadow-color: #ff0070;
     --header-menu-color: #353430;
