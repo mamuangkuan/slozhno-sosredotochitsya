@@ -7,11 +7,11 @@
   --title-decor-color: #ffc2e6;
   --cover-desciption-text-color: #353430;
   --section-subtitles-color: #353430;
-  --links-hover-color: rgba(50, 49, 45, 0.6);
-  --links-color: #f1b2ce;
+  --links-hover-color: rgba(50, 49, 45, 0.4);
+  --links-color: #353430;
   --header-menu-focus-visible-color: #353430;
   --header-menu-active-color: #353430;
-  --link-shadow-color: #353430;
+  --link-shadow-color: #FF8DCB;
   --brackets-color: #353430;
   --background-image: url(../images/cover-image-light.png);
   --background-color: #fff1f7;
@@ -27,11 +27,11 @@
     --title-decor-color: #ffc2e6;
     --cover-desciption-text-color: #353430;
     --section-subtitles-color: #353430;
-    --links-hover-color: rgba(50, 49, 45, 0.6);
-    --links-color: #f1b2ce;
+    --links-hover-color: rgba(50, 49, 45, 0.4);
+    --links-color: #353430;
     --header-menu-focus-visible-color: #353430;
     --header-menu-active-color: #353430;
-    --link-shadow-color: #353430;
+    --link-shadow-color: #FF8DCB;
     --brackets-color: #353430;
     --background-image: url(../images/cover-image-light.png);
     --background-color: #fff1f7;
@@ -47,15 +47,15 @@
   --title-decor-color: #ffc2e6;
   --cover-desciption-text-color: #353430;
   --section-subtitles-color: #353430;
-  --links-hover-color: rgba(50, 49, 45, 0.6);
-  --links-color: #f1b2ce;
+  --links-hover-color: rgba(50, 49, 45, 0.4);
+  --links-color: #353430;
   --header-menu-focus-visible-color: #353430;
   --header-menu-active-color: #353430;
-  --link-shadow-color: #353430;
+  --link-shadow-color: #FF8DCB;
   --brackets-color: #353430;
   --background-image: url(../images/cover-image-light.png);
   --background-color: #fff1f7;
-
+  
   .rec {
     display: none;
   }
